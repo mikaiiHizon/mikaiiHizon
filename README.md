@@ -1,7 +1,7 @@
 # 👨‍💻 Joseph Nathaniel Hizon
 
 🎓 3rd Year Computer Science Student (2023–2027)  
-📍 Philippines
+📍  Zambales, Philippines
 
 📞 +63 948 804 9235  
 📧 hizonjosephnathan@gmail.com  
@@ -19,12 +19,6 @@ With experience in both government and tech-based roles, I’ve developed not on
 - 🎓 Graduated with Honors – ICT Strand (SHS)
 
 ---
-
-## 🛠 Skills
-
-### Programming Languages & Technologies
-- **Frontend:** HTML · CSS · JavaScript  
-- **Backend:** Python · Java · C++ · .NET
 
 ### Core Strengths
 - ✅ Logical and technical problem-solving  
